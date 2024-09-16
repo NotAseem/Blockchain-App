@@ -52,5 +52,4 @@ Make sure you have the following installed before getting started:
   Now, install the dependencies using 'npm install'.
 
 ## Note 2:
-  It is better to maintain two separate folders for handling the backend i.e., hardhat-contracts side and a different one for frontend which has required     
-App.js file where several functions are defined to handle the frontend. 
+  It is better to maintain two separate folders for handling the backend i.e., hardhat-contracts side and a different one for frontend which has required     App.js file where several functions are defined to handle the frontend. 
